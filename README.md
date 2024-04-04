@@ -1,4 +1,4 @@
-# Gestão de Participantes de Evento
+# Gestão de Participantes em Eventos
 
 ## Descrição
 
