@@ -1,4 +1,4 @@
-# Consulta de Participantes de Evento
+# Gestão de Participantes de Evento
 
 ## Descrição
 
